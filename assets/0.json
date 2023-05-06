@@ -1,0 +1,53 @@
+{
+  "name": "Immortal #0",
+  "symbol": "IMM",
+  "description": "A collection of wandering Exiles, unlikely heroes and villans who can try and save or destroy Kalinvale.",
+  "seller_fee_basis_points": 1000,
+  "image": "0.png",
+  "external_url": "",
+  "edition": 0,
+  "collection": {
+    "name": "Test-Collection",
+    "family": "Immortal"
+  },  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Runes"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Death Staff"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Living"
+    },
+    {
+      "trait_type": "Alignment",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Status",
+      "value": "Alive"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "EqCat4aJeH9w1mYKpjkyMtsjZKCiyeKUGERsGZsgSg9W",
+        "share": 100
+      }
+    ]
+  }
+}
